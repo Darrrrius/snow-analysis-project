@@ -1,0 +1,6 @@
+geopandas
+pandas
+numpy
+scikit-learn
+matplotlib
+fiona
